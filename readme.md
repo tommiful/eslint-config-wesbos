@@ -4,6 +4,8 @@ These are my settings for ESLint and Prettier
 
 You might like them - or you might not. Don't worry you can always change them.
 
+
+
 ## What it does
 
 - Lints JavaScript and TypeScript based on the latest standards
